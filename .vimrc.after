@@ -1,0 +1,5 @@
+color dw_blue
+"" color mustang
+map <C-]> :NERDTreeToggle<CR>
+map <C-o> :source ~/.vimrc.after<CR>
+map <r-c> :e ~/.vimrc.after<CR>
